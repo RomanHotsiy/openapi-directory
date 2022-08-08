@@ -6,7 +6,7 @@ info:
     email: support@twilio.com
     name: Twilio Support
     url: https://support.twilio.com
-  description: This is the public Twilio REST API!
+  description: This is the public Twilio REST API (another test)
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
